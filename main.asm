@@ -1,0 +1,2 @@
+format elf
+use32
