@@ -1,0 +1,7 @@
+1. functions for working with files, load game and game level.
+
+2. Functions for working with data game(inventory, global flags, statistics etc).
+
+3. Functions for settings graphical elements.
+
+4. Functions for working with network.
