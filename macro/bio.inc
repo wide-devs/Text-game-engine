@@ -5,3 +5,9 @@ mov ah, 0Ah
 movzx cx, [counter]
 int 10h
 }
+
+macro cursor [row, column] {
+  mov dh, row
+  mov dl, column
+  int 10h
+}
