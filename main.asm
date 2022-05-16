@@ -1,2 +1,2 @@
-format elf
-use32
+use16
+include 'macro/bio.inc'
